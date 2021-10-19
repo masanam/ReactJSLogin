@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-this is the Frontend Application
+This is the Frontend Application.\
 Backend Application can be found at
 https://github.com/masanam/LaravelAPIReact
 
